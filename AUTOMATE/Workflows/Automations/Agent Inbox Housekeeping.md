@@ -1,5 +1,6 @@
 ---
 type: flothink-workflow
+version: 4
 name: Agent Inbox Housekeeping
 status: draft
 trigger:
