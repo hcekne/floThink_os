@@ -18,4 +18,4 @@ Append-only episodic record of what happened in this workspace.
 
 ## Entries
 
-_No entries yet._
+- 2026-10-20: At the owner's request, replaced experimental executable starters with [[Agent Inbox Housekeeping]] and [[Company Research Custom Prompt]]. The owner rejected the retired templates as insufficiently proven; Git history preserves them.

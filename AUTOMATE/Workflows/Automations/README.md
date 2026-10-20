@@ -17,3 +17,23 @@ lists, schedules, and runs them by that marker — not by this folder.
 - Document inputs should be selected through the Workflow Builder document
   picker. They must point to files the owner can access in the workspace or in a
   scoped organization project.
+
+## Curated starter pack
+
+This repository seeds exactly two executable workflows:
+
+- [[Agent Inbox Housekeeping]] — organize inbox originals and create linked notes.
+- [[Company Research Custom Prompt]] — research a company and answer a final prompt you supply.
+
+Choose your own AI connections and models before running either workflow. A
+clone does not activate schedules. The recipes are editable personal copies;
+their catalogue IDs let the hosted floThink Library recognize an installed copy.
+
+The hosted curated library is shipped separately with the application. Updating
+this GitHub repository alone does not update that library. Publishing a curated
+workflow requires matching application and starter-repository releases, privacy
+review, and evidence of useful real results. Repository history retains retired
+examples; they are no longer part of the executable starter pack.
+
+Workflow subscriptions and in-app promotion are not available yet. Existing
+workspace template updates use a preview/consent flow and preserve custom edits.
