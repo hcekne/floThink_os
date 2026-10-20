@@ -1,6 +1,6 @@
 # floThink
 
-[**floThink**](https://www.maxos.online/) is the AI workflow operating system for
+[**floThink**](https://flothink.ai/) is the AI workflow operating system for
 knowledge work. It gives people and AI agents one persistent place to remember
 context, organize priorities, complete work, and improve the workflows they use
 again and again.
@@ -9,7 +9,7 @@ This repository is the official public floThink workspace template. Your plans,
 people, projects, notes, and inbox live in one plain-Markdown workspace that
 both you and AI agents can read, search, link, and edit.
 
-Most users run it through [**floThink**](https://www.maxos.online/): the
+Most users run it through [**floThink**](https://flothink.ai/): the
 hosted product adds chat with agents that work directly in this workspace,
 scheduled and event-triggered workflows via the Workflow Builder, connected
 organization sources, code repositories, large-file storage, monitoring, and
@@ -17,11 +17,11 @@ run history. The workspace itself stays a portable git repository you own — it
 also works entirely standalone with a local AI tool, and that portability is a
 design guarantee, not an accident.
 
-**[Explore floThink](https://www.maxos.online/)** ·
-**[Open floThink](https://app.maxos.online/)**
+**[Explore floThink](https://flothink.ai/)** ·
+**[Open floThink](https://app.flothink.ai/)**
 
-Follow floThink on [LinkedIn](https://www.linkedin.com/company/maxos-online/) and
-watch product demonstrations on [YouTube](https://www.youtube.com/@MaxOSOnline).
+Follow floThink on [LinkedIn](https://www.linkedin.com/company/flothink-ai/) and
+watch product demonstrations on [YouTube](https://www.youtube.com/@flothink).
 
 ## Why floThink
 
@@ -62,7 +62,7 @@ updates never touch it.
 ## Using floThink
 
 **Hosted (recommended):** sign in to
-[floThink](https://app.maxos.online/), open your workspace, and talk to it
+[floThink](https://app.flothink.ai/), open your workspace, and talk to it
 — agents read `AGENTS.md` and your folder instructions automatically. Build
 automations in the Workflow Builder; they run on schedules or events without a
 browser open.

@@ -2,7 +2,7 @@
 
 Purpose:
 
-Keep `maxos.online` and `app.maxos.online` visually consistent so moving from the public site into the product feels like entering the same system.
+Keep `flothink.ai` and `app.flothink.ai` visually consistent so moving from the public site into the product feels like entering the same system.
 
 ## Brand Mark
 
@@ -189,7 +189,7 @@ Enterprise framing:
 
 ## App Integration Notes
 
-For `app.maxos.online`:
+For `app.flothink.ai`:
 
 - Match the same dark shell colors.
 - Use the same compact `M` mark in the app chrome.
