@@ -2,7 +2,7 @@
 
 status: backlog
 owner:
-last_updated: 2026-08-07
+last_updated: 2026-10-20
 
 ## Purpose
 Turn LinkedIn profile PDF exports into structured person notes in
@@ -13,8 +13,6 @@ Turn LinkedIn profile PDF exports into structured person notes in
   from LinkedIn.
 - `Skill - Process PDF Profiles to People Notes.md` — agent-executable
   extraction of a profile PDF into a person note.
-- `Workflow - Process PDF Profiles to People Notes.md` — the human-led
-  end-to-end process.
 
 ## Activation checklist
 - [ ] Read the export guide and place profile PDFs in

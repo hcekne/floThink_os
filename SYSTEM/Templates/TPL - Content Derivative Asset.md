@@ -35,4 +35,4 @@ tags: [content, derivative]
 - 
 
 ## Links
-- Related workflow: [[AUTOMATE/Workflows/Workflow - Content Waterfall from Pillar Article]]
+- Related workflow:

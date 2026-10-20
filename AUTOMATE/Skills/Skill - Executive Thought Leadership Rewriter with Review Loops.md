@@ -15,7 +15,6 @@ Use this skill when the user wants to sharpen, compress, reposition, or fully re
 - the original draft
 - reviewer / partner / stakeholder feedback
 
-This skill complements [[Workflow - Thought Leadership Article Lifecycle]] when the rewrite needs to be agent-led rather than human-led.
 For a dedicated proof-point and source-validation pass after the rewrite, pair it with [[Skill - Evidence Finding and Narrative Integration with Validation Loops]].
 
 ## Inputs

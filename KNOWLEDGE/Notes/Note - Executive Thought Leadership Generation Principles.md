@@ -77,6 +77,5 @@ The point is not complexity for its own sake. The point is to create a repeatabl
 Use this as a reference note when creating or rewriting executive thought leadership.
 
 Pair it with:
-- [[Workflow - Thought Leadership Article Lifecycle]]
 - [[Skill - Executive Thought Leadership Rewriter with Review Loops]]
 - [[Skill - Evidence Finding and Narrative Integration with Validation Loops]]

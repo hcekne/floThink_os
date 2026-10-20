@@ -30,10 +30,6 @@ This keeps everything in one place so AI can scan titles/headings quickly.
 - `SYSTEM/Templates/TPL - Content Review Round.md`
 - `SYSTEM/Templates/TPL - Content Derivative Asset.md`
 
-## Related workflows
-- `AUTOMATE/Workflows/Workflow - Thought Leadership Article Lifecycle.md`
-- `AUTOMATE/Workflows/Workflow - Content Waterfall from Pillar Article.md`
-
 ## Simple naming pattern
 - Pillar article: `Article - Topic - v01.md`
 - Review rounds: `Review - Topic - Round 1 - Reviewer Name.md`

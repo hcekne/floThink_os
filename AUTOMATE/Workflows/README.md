@@ -2,6 +2,11 @@
 
 Use this folder for repeatable step-by-step work processes.
 
+The starter pack includes only **Agent Inbox Housekeeping** and **Company
+Research Custom Prompt**, both in `Automations/`. The former collection of
+prewritten workflow guides has been removed. You can create your own workflow
+notes using the blank workflow template.
+
 floThink supports two workflow forms:
 
 - **Workflow notes** in this folder root: human-led processes with optional AI
@@ -30,7 +35,8 @@ For reusable agent-executable capabilities that are not whole workflows, see
 - If a workflow is promoted into a skill, mark that in the workflow note itself.
 
 ## Executable Automations
-- Executable recipes carry `type: maxos-workflow` in YAML frontmatter.
+- Executable recipes carry `type: flothink-workflow` in YAML frontmatter.
+  Existing `type: maxos-workflow` recipes are also supported.
 - Keep recipe definitions in `AUTOMATE/Workflows/Automations/`.
 - Keep run outputs out of the recipe list. The harness writes intermediate
   outputs to `AUTOMATE/Workflows/Automations/artifacts/` and delivers final outputs to
